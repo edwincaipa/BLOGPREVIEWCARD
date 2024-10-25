@@ -42,6 +42,7 @@ body {
 .card_img {
     border-radius: 20px;
     margin-bottom: 1.5rem;
+    width: 19rem;
 }
 
 .card_category {
@@ -81,7 +82,7 @@ body {
 }
 
 .Author-img {
-    width: 3rem;
+    width: 2rem;
 }
 
 .Author-name {
