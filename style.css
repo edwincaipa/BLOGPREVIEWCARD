@@ -36,7 +36,7 @@ body {
 }
 
 .card:hover {
-    box-shadow: 12px 12px 0 var(--Gray-950); 
+    box-shadow: 12px 12px 0 var(--Gray-950);
 }
 
 .card_img {
@@ -64,7 +64,8 @@ body {
     cursor: pointer;
     transition: box-shadow .3s ease;
 }
-.card_title:hover{
+
+.card_title:hover {
     color: var(--Yellow);
 }
 
