@@ -10,8 +10,6 @@
     margin: 0;
 }
 
-
-
 body {
     font-family: "Figtree", sans-serif;
     background-color: var(--Yellow);
@@ -19,12 +17,6 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-}
-main {
-    width: 100%; /* O un valor específico si lo prefieres */
-    display: flex;
-    justify-content: center; /* Centra la tarjeta */
-    padding: 2rem; /* Espacio alrededor de la tarjeta */
 }
 
 .card {
