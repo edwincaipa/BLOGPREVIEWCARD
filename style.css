@@ -32,7 +32,7 @@ body {
     background-color: var(--White);
     padding: 1.5rem;
     border-radius: 20px;
-    max-width: 24rem;
+    max-width: 20rem;
     border: solid 1px black;
     box-shadow: 8px 8px 0 var(--Gray-950);
     transition: box-shadow .3s ease;
