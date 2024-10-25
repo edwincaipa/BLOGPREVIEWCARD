@@ -61,7 +61,7 @@ body {
 .card_img {
     border-radius: 20px;
     margin-bottom: 1.5rem;
-    width: 26rem;
+    width: 100%;
 }
 
 .card_category {
