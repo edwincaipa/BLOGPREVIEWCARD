@@ -38,6 +38,7 @@ body {
     border: solid 1px black;
     box-shadow: 8px 8px 0 var(--Gray-950);
     transition: box-shadow .3s ease;
+    cursor: pointer;
 }
 
 .card:hover {
